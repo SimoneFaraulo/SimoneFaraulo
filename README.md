@@ -1,16 +1,33 @@
-## Hi there 👋
+# 👋 Hi, I'm [Simone Faraulo]
 
-<!--
-**SimoneFaraulo/SimoneFaraulo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 I'm a Computer Engineering graduate from the University of Salerno,  
+currently pursuing a Master's degree in Computer Engineering (AI Applications curriculum).
 
-Here are some ideas to get you started:
+💡 My interests and work span various areas of Artificial Intelligence, including:
+- 🤖 Large Language Models (LLMs)
+- 🚘 Autonomous Driving Systems
+- 🖼️ Computer Vision
+- 🧠 Deep Learning
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💻 In addition to AI-related work, this repository also includes projects developed in:
+- 🧩 Software Engineering
+- 🛡️ Cybersecurity
+- ⚙️ Embedded Systems
+
+💻 I'm passionate about designing intelligent systems, exploring cutting-edge AI technologies, and developing innovative software solutions.
+
+---
+
+## 🛠️ Tech & Tools
+- **Languages:** Python, Java, C
+- **AI/ML Frameworks:** PyTorch, scikit-learn
+- **Other Tools:** Git, Docker
+
+---
+
+## 📫 Let's Connect
+- ✉️ [Email](simonefaraulo.work@gmail.com)
+
+---
+
+⭐️ _Feel free to explore my repositories and reach out for collaborations or projects!_
